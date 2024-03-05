@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header>
         <div className="logo">
-         Travel
+        Travel Trek
         </div>
       <nav>
         <ul>
